@@ -531,3 +531,13 @@
 		{
 			color: #777;
 		}
+
+		.custom-box {
+			display: flex;
+			gap:  16px;
+			text-align: left !important;
+			margin-bottom: 16px !important;
+		}
+		.custom-grid {
+			padding-left: 350px !important
+		}
